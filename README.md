@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnthonyMrts
+- 👋 Hi, I’m @AntonisMarts
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL and Python
 
